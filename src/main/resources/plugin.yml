@@ -1,6 +1,7 @@
 name: Template
 version: '1.0.0'
-main: com.github.maheevil.template.TemplatePlugin
+main: com.github.onebeastchris.template.TemplatePlugin
 api-version: 1.19
-authors: [ Maheesha ]
-description: TPs you to the wild
+depend: ["Geyser-Spigot"]
+authors: [ onebeastchris ]
+description: some description
